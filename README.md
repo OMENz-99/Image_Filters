@@ -19,12 +19,12 @@ Using CUDA and Gpu Computation to do batch processing and apply different Image 
 * Linux (tested on Arch Linux)
 
 ### Install CUDA 
-*Arch Linux:
+* Arch Linux:
  sudo pacman -S cuda nvidia nvidia-utils
-*Ubuntu:
+* Ubuntu:
  sudo apt update
  sudo apt install build-essential nvidia-cuda-toolkit nvidia-driver-535
-*Windows:
+* Windows:
  1. Install CUDA Toolkit from NVIDIA website.
  2. Install Visual Studio 2022 (with C++ tools).
  3. Verify with:
