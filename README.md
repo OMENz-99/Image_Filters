@@ -37,9 +37,7 @@ Using CUDA and Gpu Computation to do batch processing and apply different Image 
 
 # Building
 Linux (Arch/Ubuntu):
- make
- # or
- nvcc -std=c++11 -O3 -arch=sm_75 main.cu -o image_filter
+ make or nvcc -std=c++11 -O3 -arch=sm_75 main.cu -o image_filter
 Windows (Developer Command Prompt):
  nvcc -std=c++11 -O3 -arch=sm_75 main.cu -o image_filter.exe
 
