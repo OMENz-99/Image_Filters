@@ -572,7 +572,7 @@ int main(int argc, char** argv) {
     
     int filterType;
     printf("╔═══════════════════════════════════════════════════╗\n");
-    printf("║     CUDA Image Manipulation Toolkit              ║\n");
+    printf("║     CUDA Image Manipulation Toolkit               ║\n");
     printf("╚═══════════════════════════════════════════════════╝\n\n");
     printf("Choose filter:\n");
     printf("  1. Gaussian Blur\n");
