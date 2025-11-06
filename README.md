@@ -1,5 +1,5 @@
 # Image_Filters
-Using CUDA and Gpu Computation to do batch processing and apply different Image Filters to multiple input jpg or png images
+Using CUDA and Gpu Computation to do batch processing and apply different Image Filters as well as do batch image manipulation to multiple input jpg or png images
 
 #Features 
 **CUDA-Accelerated Processing**: Custom CUDA kernels for fast parallel image processing
