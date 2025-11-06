@@ -4,7 +4,7 @@ Using CUDA and Gpu Computation to do batch processing and apply different Image 
 #Features 
 **CUDA-Accelerated Processing**: Custom CUDA kernels for fast parallel image processing
 
-**Multiple Filters**: Gaussian blur, Sharpen, DeNoiser
+**Multiple Filters and Image Manipulators**: Gaussian blur, Sharpen, DeNoiser, Deblur, Edge Detection, Black & White Filter, Auto Color Balance.
 
 **Batch Processing**: Process entire directories of images
 
