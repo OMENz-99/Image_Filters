@@ -1,4 +1,4 @@
-# Image_Filters
+# Image_Manipulation
 Using CUDA and Gpu Computation to do batch processing and apply different Image Filters as well as do batch image manipulation to multiple input jpg or png images
 
 #Features 
